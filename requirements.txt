@@ -1,0 +1,22 @@
+# Fake News Detection - Requirements
+# Core Data & Scientific Computing
+numpy
+pandas
+ 
+# Visualization
+matplotlib
+seaborn
+ 
+# Natural Language Processing
+nltk
+gensim
+ 
+# Machine Learning
+scikit-learn
+ 
+# Deep Learning
+tensorflow
+keras
+ 
+# Standard Library (no install needed, listed for clarity)
+# string, ast, os — built-in Python modules
