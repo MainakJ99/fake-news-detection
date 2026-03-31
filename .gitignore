@@ -1,0 +1,13 @@
+# Large files
+*.csv
+*.model
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+desktop.ini
+
+# Environment
+.venv/
