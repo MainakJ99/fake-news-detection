@@ -9,8 +9,8 @@ This project builds a fake news classification model using LSTM and NLP techniqu
 Downloaded from Kaggle Fake News Dataset: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 
 ## Model
-- Comparison countvectorizer,tfidf,word2vec,doc2vec models with Logistic regression classifer
-- Wordvectoizer+SVM
+- Comparison between countvectorizer,tfidf,word2vec,doc2vec models with Logistic regression classifer
+- Word2Vec+SVM
 - Doc2vec+ANN
 - LSTM neural network
 - Tokenization + Padding
